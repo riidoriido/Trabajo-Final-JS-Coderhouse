@@ -1,0 +1,10 @@
+[
+  { "id": 0, "nombre": "Bautismo", "tipo": "ceremonia", "duracion": "5 horas", "precio": 25000 },
+  { "id": 1, "nombre": "Boda", "tipo": "ceremonia", "duracion": "8 horas", "precio": 75000 },
+  { "id": 2, "nombre": "Comunion", "tipo": "ceremonia", "duracion": "5 horas", "precio": 25000 },
+  { "id": 3, "nombre": "Quinces", "tipo": "fiesta", "duracion": "8 horas", "precio": 50000 },
+  { "id": 4, "nombre": "Diploma", "tipo": "registro", "duracion": "4 horas", "precio": 35000 },
+  { "id": 5, "nombre": "Eventos", "tipo": "fiesta", "duracion": "5 horas", "precio": 40000 },
+  { "id": 6, "nombre": "Recitales", "tipo": "registro", "duracion": "3 horas", "precio": 10000 },
+  { "id": 7, "nombre": "Producto", "tipo": "producto", "duracion": "2 horas", "precio": 7500 }
+]
